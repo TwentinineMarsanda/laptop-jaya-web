@@ -1,4 +1,4 @@
-// Global component styles
+
 
 html {
   position: relative;
@@ -15,7 +15,7 @@ a {
   }
 }
 
-// Main page wrapper
+
 #wrapper {
   display: flex;
   #content-wrapper {
@@ -28,14 +28,14 @@ a {
   }
 }
 
-// Set container padding to match gutter width instead of default 15px
+
 .container,
 .container-fluid {
   padding-left: $grid-gutter-width;
   padding-right: $grid-gutter-width;
 }
 
-// Scroll to top button
+
 .scroll-to-top {
   position: fixed;
   right: 1rem;
