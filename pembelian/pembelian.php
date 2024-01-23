@@ -24,7 +24,7 @@ $datas = $pembelian->getpembelian();
     <!-- Content Row -->
     <div class="row">
 
-                         <!-- DataTales Example -->
+                        
                     <div class="card shadow mb-4 col-md-12">
                         <div class="card-header py-3">
                            
@@ -76,7 +76,7 @@ $datas = $pembelian->getpembelian();
                     
 
 </div>
-<!-- /.container-fluid -->
+
 </div>
 
             
