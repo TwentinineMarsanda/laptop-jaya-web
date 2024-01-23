@@ -17,14 +17,14 @@ $datas = $laptop->getlaptop();
 
        
 
-<!-- Begin Page Content -->
+
 <div class="container-fluid">
-    <!-- Page Heading -->
+    
     <h1 class="h3 mb-4 text-gray-800">Data Laptop</h1>
-    <!-- Content Row -->
+    
     <div class="row">
 
-                         <!-- DataTales Example -->
+                        
                     <div class="card shadow mb-4 col-md-12">
                         <div class="card-header py-3">
                             <a class="btn btn-primary mt-3" href="../laptop/tambahlaptop.php" role="button">Tambah Laptop</a>
@@ -81,7 +81,7 @@ $datas = $laptop->getlaptop();
                     
 
 </div>
-<!-- /.container-fluid -->
+
 </div>
 
             
