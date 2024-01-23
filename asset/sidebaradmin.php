@@ -1,7 +1,7 @@
-<!-- Sidebar -->
+
 <ul class="navbar-nav bg-gradient-dark sidebar sidebar-dark accordion" id="accordionSidebar">
 
-<!-- Sidebar - Brand -->
+
 <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
     <div class="sidebar-brand-icon rotate-n-15">
         <i class="fas fa-laptop"></i>
@@ -9,20 +9,19 @@
     <div class="sidebar-brand-text mx-3">Laptop Jaya</div>
 </a>
 
-<!-- Divider -->
+
 <hr class="sidebar-divider my-0">
 
 <?php if($_SESSION['status'] == '2') { ?>
-    <!-- Nav Item - Dashboard -->
+    
     <li class="nav-item">
         <a class="nav-link" href="../admin/dashboard.php">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Dashboard</span></a>
     </li>
-    <!-- Divider -->
+    
     <hr class="sidebar-divider">
-    <!-- Nav Item Barang  -->
-    <!-- Nav Item - Dashboard -->
+    
     <li class="nav-item">
         <a class="nav-link" href="../laptop/laptop.php">
             <i class="fas fa-fw fa-laptop"></i>
@@ -61,8 +60,7 @@ else if($_SESSION['status'] == '1') {?>
 
 
 
-<!-- Divider -->
+
 <hr class="sidebar-divider">
  
 </ul>
-<!-- End of Sidebar -->
