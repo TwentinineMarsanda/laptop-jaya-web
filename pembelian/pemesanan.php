@@ -25,7 +25,7 @@ $datas = $pemesanan->getpemesanan();
     <!-- Content Row -->
     <div class="row">
 
-                         <!-- DataTales Example -->
+                         
                     <div class="card shadow mb-4 col-md-12">
                       
                         <div class="card-body">
@@ -80,7 +80,7 @@ $datas = $pemesanan->getpemesanan();
                     
 
 </div>
-<!-- /.container-fluid -->
+
 </div>
 
             
