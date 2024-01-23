@@ -26,11 +26,11 @@ if(isset($_POST['submit']))
 
        
 
-<!-- Begin Page Content -->
+
 <div class="container-fluid">
-    <!-- Page Heading -->
+    
     <h1 class="h3 mb-4 text-gray-800">Tambah Laptop</h1>
-    <!-- Content Row -->
+   
     <form  action="" method="post" enctype="multipart/form-data">
         <div class="row">
         
@@ -67,7 +67,7 @@ if(isset($_POST['submit']))
                     
 
 </div>
-<!-- /.container-fluid -->
+
 </div>
 
 <script type="text/javascript">
